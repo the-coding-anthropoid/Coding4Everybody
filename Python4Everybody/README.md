@@ -27,6 +27,7 @@ These badges contain the official Open Badge metadata. You could validate the ba
 </td>
 <td>
 <div width="220px">
+<img width="220" height="0">
 <strong>Coming Soon</strong> => <br> Getting Started
 </div>
 </td>
