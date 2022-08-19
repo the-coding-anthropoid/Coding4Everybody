@@ -41,25 +41,25 @@ These badges contain the official Open Badge metadata. You could validate the ba
 <br>
 
 <table width="100%">
-    <tr>
-        <td style="width:33.333%">
-        <div align="center">
-            percentage style
-            <!-- <strong>Coming Soon</strong> => <br> Network Data -->
-        </div>
-        </td>
-        <td width="33.333%">
-        <div align="center">
-            percentage width
-            <!-- <strong>Coming Soon</strong> => <br> Databases -->
-        </div>
-        </td>
-        <td style="width:33.333%">
-        <div align="center">
-            <strong>Coming Soon</strong> => <br> PY4E
-        </div> 
-        </td>
-    </tr>
+<tr>
+<td style="width:33.333%">
+<div align="center">
+percentage style
+<!-- <strong>Coming Soon</strong> => <br> Network Data -->
+</div>
+</td>
+<td width="33.333%">
+<div align="center">
+percentage width
+<!-- <strong>Coming Soon</strong> => <br> Databases -->
+</div>
+</td>
+<td style="width:33.333%">
+<div align="center">
+<strong>Coming Soon</strong> => <br> PY4E
+</div> 
+</td>
+</tr>
 </table>
 
 
