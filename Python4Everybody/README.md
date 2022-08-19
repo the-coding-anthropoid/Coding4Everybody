@@ -15,20 +15,25 @@ These badges contain the official Open Badge metadata. You could validate the ba
 
 <table>
 <tr>
-<td>
-<img width="25%" src="Badges/enrolled.png" alt="py4e enrolment badge">
+<td align="center">
+<img width="300" height="1"><br>
+<img height="150" width="150" src="Badges/enrolled.png" alt="py4e enrolment badge"><br>
+<img width="300" height="1"><br>
 </td>
-<td>
-<img width="25%" src="Badges/hello.png" alt="py4e hello world badge">
-</div>
+<td align="center">
+<img width="300" height="1"><br>
+<img height="150" width="150" src="Badges/hello.png" alt="py4e hello world badge"><br>
+<img width="300" height="1"><br>  
 </td>
-<td>
-<img width="25%" height="1"><br>
-<strong>Coming Soon</strong> => <br> Getting Started
+<td align="center">
+<img width="300" height="1"><br>
+<strong>Coming Soon</strong> => <br> Getting Started <br>
+<img width="300" height="1"><br>
 </td>
-<td>
-<img width="25%" height="1"><br>
-<strong>Coming Soon</strong> => <br> Data Structures
+<td align="center">
+<img width="300" height="1"><br>
+<strong>Coming Soon</strong> => <br> Data Structures <br>
+<img width="300" height="1"><br>
 </td>
 </tr>
 </table>
@@ -37,24 +42,22 @@ These badges contain the official Open Badge metadata. You could validate the ba
 
 <br>
 
-<table width="100%">
+<table>
 <tr>
-<td style="width:33.333%">
-<div align="center">
-percentage style
-<!-- <strong>Coming Soon</strong> => <br> Network Data -->
-</div>
+<td align="center">
+<img width="400" height="1"><br>
+<strong>Coming Soon</strong> => <br> Network Data<br>
+<img width="400" height="1"><br>
 </td>
-<td width="33.333%">
-<div align="center">
-percentage width
-<!-- <strong>Coming Soon</strong> => <br> Databases -->
-</div>
+<td align="center">
+<img width="400" height="1"><br>
+<strong>Coming Soon</strong> => <br> Databases
+<img width="400" height="1"><br>
 </td>
-<td style="width:33.333%">
-<div align="center">
+<td align="center">
+<img width="400" height="1"><br>
 <strong>Coming Soon</strong> => <br> PY4E
-</div> 
+<img width="400" height="1"><br>
 </td>
 </tr>
 </table>
