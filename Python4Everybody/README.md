@@ -12,16 +12,16 @@ These badges contain the official Open Badge metadata. You could validate the ba
 <table width="100%">
 <tbody>
 <tr>
-<td style="text-align: center; height: 100px">
+<td align="center" height="100px">
 <img src="Badges/enrolled.png">
 </td>
-<td style="text-align: center; height: 100px">
+<td align="center" height="100px">
 <img src="Badges/hello.png">
 </td>
-<td style="text-align: center; height: 100px">
+<td align="center" height="100px">
 <strong>Coming Soon</strong> => <br> Getting Started
 </td>
-<td style="text-align: center; height: 100px">
+<td align="center" height="100px">
 <strong>Coming Soon</strong> => <br> Data Structures
 </td>
 </tr>
@@ -31,13 +31,13 @@ These badges contain the official Open Badge metadata. You could validate the ba
 <table width="100%">
 <tbody>
 <tr>
-<td style="text-align: center; height: 100px">
+<td align="center" height="100px">
 <strong>Coming Soon</strong> => <br> Network Data
 </td>
-<td style="text-align: center; height: 100px">
+<td align="center" height="100px">
 <strong>Coming Soon</strong> => <br> Databases
 </td>
-<td style="text-align: center; height: 100px">
+<td align="center" height="100px">
 <strong>Coming Soon</strong> => <br> PY4E
 </td>
 </tr>
