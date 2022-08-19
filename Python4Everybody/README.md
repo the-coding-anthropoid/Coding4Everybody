@@ -23,11 +23,11 @@ These badges contain the official Open Badge metadata. You could validate the ba
 </div>
 </td>
 <td>
-<img width="200" height="0" src="Badges/#" alt="py4e getting started badge">
+<img width="200" height="1"><br>
 <strong>Coming Soon</strong> => <br> Getting Started
 </td>
 <td>
-<img width="200" height="0" src="Badges/#" alt="py4e data structures badge">
+<img width="200" height="1"><br>
 <strong>Coming Soon</strong> => <br> Data Structures
 </td>
 </tr>
