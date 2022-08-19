@@ -13,22 +13,24 @@ These badges contain the official Open Badge metadata. You could validate the ba
 
 <br>
 
-<table style="width: 100%">
+<table width="882">
     <tr>
-        <td style="width:25%">
+        <td style="width:220.5">
             <img src="Badges/enrolled.png" alt="py4e enrolment badge" style="margin:auto;width:90%">
         </td>
-        <td style="width:25%">
+        <td style="width:220.5">
             <img src="Badges/hello.png" alt="py4e hello world badge" style="margin:auto; width:90%">
         </td>
-        <td style="width:25%">
+        <td style="width:220.5">
         <div align="center">
-            <strong>Coming Soon</strong> => <br> Getting Started
+            hard coded style
+            <!-- <strong>Coming Soon</strong> => <br> Getting Started -->
         </div>
         </td>
-        <td style="width:25%">
+        <td width="220.5">
         <div align="center">
-            <strong>Coming Soon</strong> => <br> Data Structures
+            hard coded width
+            <!-- <strong>Coming Soon</strong> => <br> Data Structures -->
         </div> 
         </td>
     </tr>
@@ -38,16 +40,18 @@ These badges contain the official Open Badge metadata. You could validate the ba
 
 <br>
 
-<table style="width: 100%">
+<table width="100%">
     <tr>
         <td style="width:33.333%">
         <div align="center">
-            <strong>Coming Soon</strong> => <br> Network Data
+            percentage style
+            <!-- <strong>Coming Soon</strong> => <br> Network Data -->
         </div>
         </td>
-        <td style="width:33.333%">
+        <td width="33.333%">
         <div align="center">
-            <strong>Coming Soon</strong> => <br> Databases
+            percentage width
+            <!-- <strong>Coming Soon</strong> => <br> Databases -->
         </div>
         </td>
         <td style="width:33.333%">
