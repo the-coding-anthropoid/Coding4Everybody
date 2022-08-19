@@ -16,29 +16,42 @@ These badges contain the official Open Badge metadata. You could validate the ba
     }
 
     td {
-        text-align: center;
-        height: 100px;
+        text-align="center" height="100px"
     }
 
 </style>
 
-<table>
+<table width="100%">
 <tbody>
 <tr>
-<td><img src="Badges/enrolled.png"></td>
-<td><img src="Badges/hello.png"></td>
-<td><strong>Coming Soon</strong> => <br> Getting Started</td>
-<td><strong>Coming Soon</strong> => <br> Data Structures</td>
+    <td style="text-align: center; height: 100px">
+        <img src="Badges/enrolled.png">
+    </td>
+    <td style="text-align: center; height: 100px">
+        <img src="Badges/hello.png">
+    </td>
+    <td style="text-align: center; height: 100px">
+        <strong>Coming Soon</strong> => <br> Getting Started
+    </td>
+    <td style="text-align: center; height: 100px">
+        <strong>Coming Soon</strong> => <br> Data Structures
+    </td>
 </tr>
 </tbody>
 </table>
 
-<table>
+<table width="100%">
 <tbody>
 <tr>
-<td><strong>Coming Soon</strong> => <br> Network Data</td>
-<td><strong>Coming Soon</strong> => <br> Databases</td>
-<td><strong>Coming Soon</strong> => <br> PY4E</td>
+    <td style="text-align: center; height: 100px">
+        <strong>Coming Soon</strong> => <br> Network Data
+    </td>
+    <td style="text-align: center; height: 100px">
+        <strong>Coming Soon</strong> => <br> Databases
+    </td>
+    <td style="text-align: center; height: 100px">
+        <strong>Coming Soon</strong> => <br> PY4E
+    </td>
 </tr>
 </tbody>
 </table>
