@@ -18,4 +18,4 @@ This is a relatively simple assignment. The goal is to simply show that each stu
 
 ### Grade
 
-- TBD
+![Image of Grade](./grade.png)
