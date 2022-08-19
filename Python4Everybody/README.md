@@ -16,25 +16,19 @@ These badges contain the official Open Badge metadata. You could validate the ba
 <table>
 <tr>
 <td>
-<div width="220px" align="center">
-<img src="Badges/enrolled.png" alt="py4e enrolment badge" style="margin:auto;width:90%">
+<img width="200" src="Badges/enrolled.png" alt="py4e enrolment badge">
+</td>
+<td>
+<img width="200" src="Badges/hello.png" alt="py4e hello world badge">
 </div>
 </td>
 <td>
-<div width="220px">
-<img src="Badges/hello.png" alt="py4e hello world badge" style="margin:auto; width:90%">
-</div>
-</td>
-<td>
-<div width="220px">
-<img width="220" height="0">
+<img width="200" height="0" src="Badges/#" alt="py4e getting started badge">
 <strong>Coming Soon</strong> => <br> Getting Started
-</div>
 </td>
 <td>
-<div width="220px" align="center">
+<img width="200" height="0" src="Badges/#" alt="py4e data structures badge">
 <strong>Coming Soon</strong> => <br> Data Structures
-</div>
 </td>
 </tr>
 </table>
