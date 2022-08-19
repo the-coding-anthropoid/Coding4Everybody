@@ -24,3 +24,9 @@ This repository will be a record of my progress with these online MOOCs.
 - TBD
 
 - <a class="js-navigation-open Link--primary" title="Python4Everybody" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="Python4Everybody/">PY4E</a>
+
+<div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+<span class="css-truncate css-truncate-target d-block width-fit">
+<a class="js-navigation-open Link--primary" title="Python4Everybody" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/the-coding-anthropoid/Coding4Everybody/tree/master/Python4Everybody">Python4Everybody</a>
+</span>
+</div>
