@@ -17,6 +17,8 @@ This repository will be a record of my progress with these online MOOCs.
 ## In Progress
 
 - [PY4E](Python4Everybody/README.md)
+- [PY4E](Python4Everybody/)
+- [PY4E](https://github.com/the-coding-anthropoid/Coding4Everybody/blob/master/Python4Everybody/README.md)
 
 ## Done
 
