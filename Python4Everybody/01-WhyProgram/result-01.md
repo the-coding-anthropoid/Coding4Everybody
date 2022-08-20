@@ -14,7 +14,7 @@
 
 ### Slides
 
-- [Powerpoint](../../Resources/Pythonlearn-01-Intro.pptx)
+- [Powerpoint](../Resources/Pythonlearn-01-Intro.pptx)
 - [www.py4e.com](https://www.py4e.com/html3/01-intro)
 
 ### Assignments
@@ -26,5 +26,5 @@
 
 #### Quiz 01
 
-![Image of quiz Assignment](quiz.png)
+![Image of quiz Assignment](quiz-01.png)
 
