@@ -16,24 +16,24 @@ These badges contain the official Open Badge metadata. You could validate the ba
 <table>
 <tr>
 <td align="center">
-<img width="300" height="1"><br>
-<img height="150" width="150" src="Badges/enrolled.png" alt="py4e enrolment badge"><br>
-<img width="300" height="1"><br>
+<img width="225" height="1"><br>
+<img height="125" width="125" src="Badges/enrolled.png" alt="py4e enrolment badge"><br>
+<img width="225" height="1"><br>
 </td>
 <td align="center">
-<img width="300" height="1"><br>
-<img height="150" width="150" src="Badges/hello.png" alt="py4e hello world badge"><br>
-<img width="300" height="1"><br>  
+<img width="225" height="1"><br>
+<img height="125" width="125" src="Badges/hello.png" alt="py4e hello world badge"><br>
+<img width="225" height="1"><br>  
 </td>
 <td align="center">
-<img width="300" height="1"><br>
+<img width="225" height="1"><br>
 <strong>Coming Soon</strong> => <br> Getting Started <br>
-<img width="300" height="1"><br>
+<img width="225" height="1"><br>
 </td>
 <td align="center">
-<img width="300" height="1"><br>
+<img width="225" height="1"><br>
 <strong>Coming Soon</strong> => <br> Data Structures <br>
-<img width="300" height="1"><br>
+<img width="225" height="1"><br>
 </td>
 </tr>
 </table>
@@ -45,19 +45,19 @@ These badges contain the official Open Badge metadata. You could validate the ba
 <table>
 <tr>
 <td align="center">
-<img width="400" height="1"><br>
+<img width="300" height="1"><br>
 <strong>Coming Soon</strong> => <br> Network Data<br>
-<img width="400" height="1"><br>
+<img width="300" height="1"><br>
 </td>
 <td align="center">
-<img width="400" height="1"><br>
+<img width="300" height="1"><br>
 <strong>Coming Soon</strong> => <br> Databases
-<img width="400" height="1"><br>
+<img width="300" height="1"><br>
 </td>
 <td align="center">
-<img width="400" height="1"><br>
+<img width="300" height="1"><br>
 <strong>Coming Soon</strong> => <br> PY4E
-<img width="400" height="1"><br>
+<img width="300" height="1"><br>
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@ This repository will be a record of my progress with these online MOOCs.
 
 ## In Progress
 
-[PY4E](https://github.com/the-coding-anthropoid/Coding4Everybody/tree/master/Python4Everybody)
+- [PY4E](https://github.com/the-coding-anthropoid/Coding4Everybody/tree/master/Python4Everybody)
 
 ## Done
 
