@@ -35,7 +35,7 @@ If the user enters a value out of range, print a suitable error message and exit
 </td>
 <td width="200">
 
-| Score  | Grade |
+| Student Score  | Student Grade |
 | :---:  | :---: |
 | >= 0.9 | A     |
 | >= 0.8 | B     |
