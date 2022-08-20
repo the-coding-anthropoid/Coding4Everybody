@@ -6,6 +6,7 @@
 - [Lesson 01: Why Program](01-WhyProgram/result-01.md)
 - [Lesson 02: Variables Expressions and Statements](02-VariablesExpressionsStatements/result-02.md)
 - [Lesson 03: Conditional Execution](03-ConditionalExecution/result-03.md)
+- [Lesson 04: Functions](04-Functions/result-04.md)
 
 ## Badges
 
