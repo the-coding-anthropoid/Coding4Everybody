@@ -1,6 +1,6 @@
 # Python 4 Everyone
 
-## 02 Why Program
+## 01 Why Program
 
 ### Videos
 
@@ -19,12 +19,12 @@
 
 ### Assignments
 
-#### Autograder
+#### Autograder 'Hello World'
 
-![Image of autograder Assignment](autograder.png)
-![Image of Grade](./grade.png)
+![Image of autograder Assignment](autograder-hello.png)
+![Image of Grade](./grade-hello.png)
 
-#### Quiz
+#### Quiz 01
 
 ![Image of quiz Assignment](quiz.png)
 

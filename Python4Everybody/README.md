@@ -2,9 +2,10 @@
 
 ## Lessons
 
-- [Lesson 01: Installing Python](01-InstallingPython/result.md)
-- [Lesson 02: Why Program](02-WhyProgram/result.md)
-- [Lesson 03: Variables Expressions and Statements](03-VariablesExpressionsStatements/result.md)
+- [Lesson 00: Installing Python](00-InstallingPython/result-00.md)
+- [Lesson 01: Why Program](01-WhyProgram/result-01.md)
+- [Lesson 02: Variables Expressions and Statements](02-VariablesExpressionsStatements/result-02.md)
+- [Lesson 03: Conditional Execution](03-ConditionalExecution/result-03.md)
 
 ## Badges
 
