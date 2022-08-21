@@ -19,8 +19,8 @@
 
 #### Autograder 5.2
 
-<!-- ![Image of Autograder Assignment 5.2](autograder-05.2.png)
-![Image of Grade for Autograder Assignment 5.2](./grade-04.6.png) -->
+![Image of Autograder Assignment 5.2](autograder-05.2.png)
+![Image of Grade for Autograder Assignment 5.2](./grade-05.2.png)
 
 #### Quiz
 
