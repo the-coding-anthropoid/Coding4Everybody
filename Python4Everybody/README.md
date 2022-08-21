@@ -7,6 +7,7 @@
 - [Lesson 02: Variables Expressions and Statements](02-VariablesExpressionsStatements/result-02.md)
 - [Lesson 03: Conditional Execution](03-ConditionalExecution/result-03.md)
 - [Lesson 04: Functions](04-Functions/result-04.md)
+- [Lesson 05: Loops and Iteration](05-LoopsIterations/result-05.md)
 
 ## Badges
 
@@ -30,7 +31,7 @@ These badges contain the official Open Badge metadata. You could validate the ba
 </td>
 <td align="center">
 <img width="225" height="1"><br>
-<strong>Coming Soon</strong> => <br> Getting Started <br>
+<img height="125" width="125" src="Badges/starting.png" alt="py4e getting started badge"><br>
 <img width="225" height="1"><br>
 </td>
 <td align="center">
