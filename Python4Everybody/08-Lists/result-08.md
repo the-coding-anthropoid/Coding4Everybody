@@ -26,8 +26,8 @@
 
 #### Autograder 8.5
 
-<!-- ![Image of Autograder Assignment 8.5](autograder-08.5.png)
-![Image of Grade for Autograder Assignment 8.5](./grade-08.5.png) -->
+![Image of Autograder Assignment 8.5](autograder-08.5.png)
+![Image of Grade for Autograder Assignment 8.5](./grade-08.5.png)
 
 #### Quiz
 
