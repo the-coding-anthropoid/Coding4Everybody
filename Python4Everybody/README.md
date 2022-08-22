@@ -10,6 +10,7 @@
 - [Lesson 05: Loops and Iteration](05-LoopsIterations/result-05.md)
 - [Lesson 06: Strings](06-Strings/result-06.md)
 - [Lesson 07: Files](07-Files/result-07.md)
+- [Lesson 08: Lists](08-Lists/result-08.md)
 
 ## Badges
 
