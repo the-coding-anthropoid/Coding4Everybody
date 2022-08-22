@@ -1,7 +1,6 @@
 # TODO
 
-- Tupples
-  - skeleton
+- Tuples
   - autograder 10.2
   - quiz
   - extras
