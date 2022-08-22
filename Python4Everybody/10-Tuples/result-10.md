@@ -34,5 +34,5 @@ However, this does not fit into the space provided by the autograder and, despit
 
 #### Quiz
 
-<!-- ![Image of quiz Assignment](quiz-10.png) -->
+![Image of quiz Assignment](quiz-10.png)
 
