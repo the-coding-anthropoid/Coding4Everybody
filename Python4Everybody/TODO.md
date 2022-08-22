@@ -1,5 +1,8 @@
 # TODO
 
-- Tuples
+- Regular Expressions
+  - skeleton
+  - autograder
+  - quiz
+  - extras
   - link
-  - structures badge

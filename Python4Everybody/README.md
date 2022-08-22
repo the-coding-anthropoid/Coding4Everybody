@@ -12,6 +12,7 @@
 - [Lesson 07: Files](07-Files/result-07.md)
 - [Lesson 08: Lists](08-Lists/result-08.md)
 - [Lesson 09: Dictionaries](09-Dictionaries/result-09.md)
+- [Lesson 10: Tuples](10-Tuples/result-10.md)
 
 ## Badges
 
@@ -40,7 +41,7 @@ These badges contain the official Open Badge metadata. You could validate the ba
 </td>
 <td align="center">
 <img width="225" height="1"><br>
-<strong>Coming Soon</strong> => <br> Data Structures <br>
+<img height="125" width="125" src="Badges/data.png" alt="py4e data structures badge"><br>
 <img width="225" height="1"><br>
 </td>
 </tr>
