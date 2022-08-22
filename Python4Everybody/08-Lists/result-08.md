@@ -21,8 +21,8 @@
 
 #### Autograder 8.4
 
-<!-- ![Image of Autograder Assignment 8.4](autograder-08.4.png)
-![Image of Grade for Autograder Assignment 8.4](./grade-08.4.png) -->
+![Image of Autograder Assignment 8.4](autograder-08.4.png)
+![Image of Grade for Autograder Assignment 8.4](./grade-08.4.png)
 
 #### Autograder 8.5
 
