@@ -20,8 +20,8 @@
 
 #### Autograder 7.2
 
-<!-- ![Image of Autograder Assignment 7.2](autograder-07.2.png)
-![Image of Grade for Autograder Assignment 7.2](./grade-07.2.png) -->
+![Image of Autograder Assignment 7.2](autograder-07.2.png)
+![Image of Grade for Autograder Assignment 7.2](./grade-07.2.png)
 
 #### Quiz
 
