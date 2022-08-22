@@ -25,5 +25,5 @@
 
 #### Quiz
 
-<!-- ![Image of quiz Assignment](quiz-06.png) -->
+![Image of quiz Assignment](quiz-06.png)
 
