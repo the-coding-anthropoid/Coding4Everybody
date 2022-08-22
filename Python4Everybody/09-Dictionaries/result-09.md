@@ -19,8 +19,8 @@
 
 #### Autograder 9.4
 
-<!-- ![Image of Autograder Assignment 9.4](autograder-09.4.png)
-![Image of Grade for Autograder Assignment 9.4](./grade-09.4.png) -->
+![Image of Autograder Assignment 9.4](autograder-09.4.png)
+![Image of Grade for Autograder Assignment 9.4](./grade-09.4.png)
 
 #### Quiz
 
