@@ -11,6 +11,9 @@
 ### Slides
 
 - [Powerpoint](../Resources/Pythonlearn-06-Strings.pptx)
+
+### References
+
 - [www.py4e.com](https://www.py4e.com/html3/06-strings)
 
 ### Assignments

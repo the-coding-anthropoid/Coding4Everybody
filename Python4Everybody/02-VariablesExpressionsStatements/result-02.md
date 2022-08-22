@@ -12,6 +12,9 @@
 ### Slides
 
 - [Powerpoint](../Resources/Pythonlearn-02-Expressions.pptx)
+
+### References
+
 - [www.py4e.com](https://www.py4e.com/html3/02-variables)
 
 ### Assignments

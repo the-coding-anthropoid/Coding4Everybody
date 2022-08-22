@@ -12,6 +12,9 @@
 ### Slides
 
 - [Powerpoint](../Resources/Pythonlearn-03-Conditional.pptx)
+
+### References
+
 - [www.py4e.com](https://www.py4e.com/html3/03-conditional)
 
 ### Assignments

@@ -15,6 +15,9 @@
 ### Slides
 
 - [Powerpoint](../Resources/Pythonlearn-01-Intro.pptx)
+
+### References
+
 - [www.py4e.com](https://www.py4e.com/html3/01-intro)
 
 ### Assignments

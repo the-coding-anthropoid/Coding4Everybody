@@ -12,7 +12,10 @@
 
 ### Slides
 
-- [Powerpoint](../Resources/Pythonlearn-04-Functions.pptx)
+- [Powerpoint](../Resources/Pythonlearn-05-Iterations.pptx)
+
+### References
+
 - [www.py4e.com](https://www.py4e.com/html3/05-iterations)
 
 ### Assignments
