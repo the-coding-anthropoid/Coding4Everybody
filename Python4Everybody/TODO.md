@@ -1,5 +1,4 @@
 # TODO
 
 - Dictionaries
-  - Extras
   - Link
