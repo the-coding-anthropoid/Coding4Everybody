@@ -11,6 +11,7 @@
 - [Lesson 06: Strings](06-Strings/result-06.md)
 - [Lesson 07: Files](07-Files/result-07.md)
 - [Lesson 08: Lists](08-Lists/result-08.md)
+- [Lesson 09: Dictionaries](09-Dictionaries/result-09.md)
 
 ## Badges
 
