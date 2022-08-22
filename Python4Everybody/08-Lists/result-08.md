@@ -31,5 +31,5 @@
 
 #### Quiz
 
-<!-- ![Image of quiz Assignment](quiz-08.png) -->
+![Image of quiz Assignment](quiz-08.png)
 
