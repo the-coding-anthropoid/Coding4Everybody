@@ -1,5 +1,5 @@
 # TODO
 
 - 08 Lists
-  - extras
   - link
+- Check pdf for additional content
