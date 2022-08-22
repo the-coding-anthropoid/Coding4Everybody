@@ -20,8 +20,8 @@
 
 #### Autograder 6.5
 
-<!-- ![Image of Autograder Assignment 6.5](autograder-06.5.png)
-![Image of Grade for Autograder Assignment 6.5](./grade-06.5.png) -->
+![Image of Autograder Assignment 6.5](autograder-06.5.png)
+![Image of Grade for Autograder Assignment 6.5](./grade-06.5.png)
 
 #### Quiz
 
