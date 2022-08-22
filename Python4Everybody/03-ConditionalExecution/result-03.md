@@ -22,6 +22,7 @@
 #### Autograder 3.1
 
 ![Image of Autograder Assignment 3.1](autograder-03.1.png)
+![Image of Grade for Autograder Assignment 3.1](grade-03.1.png)
 
 #### Autograder 3.3
 
