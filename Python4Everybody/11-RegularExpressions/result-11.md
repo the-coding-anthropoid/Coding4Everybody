@@ -22,8 +22,30 @@
 
 #### Autograder: Regular Expressions
 
-<!-- ![Image of Autograder Assignment: Regular Expressions](autograder-regex.png)
-![Image of Grade for Autograder Assignment: Regular Expressions](./grade-regex.png) -->
+```python
+import re
+
+# load file
+while True:
+    file = input("Please enter filename: ")
+    try:
+        fhandle = open(file)
+        break
+    except:
+        print("Could not find file", file)
+
+# find and sum numbers
+total = 0
+
+for line in fhandle:
+    nums = re.findall('[0-9]+', line)
+    for num in nums:
+        total += int(num)
+
+print(total)
+```
+
+![Image of Grade for Autograder Assignment: Regular Expressions](./grade-regex.png)
 
 
 #### Quiz
