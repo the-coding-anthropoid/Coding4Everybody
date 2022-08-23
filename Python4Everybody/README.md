@@ -13,6 +13,7 @@
 - [Lesson 08: Lists](08-Lists/result-08.md)
 - [Lesson 09: Dictionaries](09-Dictionaries/result-09.md)
 - [Lesson 10: Tuples](10-Tuples/result-10.md)
+- [Lesson 11: Regular Expressions](11-RegularExpressions/result-11.md)
 
 ## Badges
 
