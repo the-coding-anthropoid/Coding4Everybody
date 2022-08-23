@@ -50,5 +50,5 @@ print(total)
 
 #### Quiz
 
-<!-- ![Image of quiz Assignment](quiz-11.png) -->
+![Image of quiz Assignment](quiz-11.png)
 
