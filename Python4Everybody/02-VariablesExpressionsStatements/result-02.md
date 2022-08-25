@@ -19,6 +19,11 @@
 
 ### Assignments
 
+#### Autograder 2.2
+
+![Image of Autograder Assignment 02.2](autograder-02.2.png)
+![Image of Grade for Autograder Assignment 02.2](./grade-02.2.png)
+
 #### Autograder 2.3
 
 ![Image of Autograder Assignment 02.3](autograder-02.3.png)
