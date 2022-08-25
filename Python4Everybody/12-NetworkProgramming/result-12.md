@@ -77,4 +77,4 @@ for x in range(int(repeat)):
 
 #### Quiz
 
-<!-- ![Image of quiz Assignment](quiz-12.png) -->
+![Image of quiz Assignment](quiz-12.png)
