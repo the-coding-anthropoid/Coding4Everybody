@@ -56,8 +56,24 @@ print(total)
 
 #### Autograder: Following Links with BeautifulSoup
 
-<!-- ![Image of Autograder BeautifulSoup](autograder-beautifulsoup.png)
-![Image of Grade for Autograder BeautifulSoup](./grade-beautifulsoup.png) -->
+```python
+import urllib.request, urllib.parse, urllib.error
+from bs4 import BeautifulSoup
+
+# get data
+url = input("Initial URL: ")
+position = int(input("Link position: ")) - 1
+repeat = int(input("Links in URL chain: ")) + 1
+
+# loop through urls
+for x in range(int(repeat)):
+    html = urllib.request.urlopen(url).read()
+    print("Retrieving:", url)
+    soup = BeautifulSoup(html, "html.parser")
+    url = soup('a')[position].get('href', None)
+```
+
+![Image of Grade for Autograder BeautifulSoup](./grade-links.png)
 
 #### Quiz
 
