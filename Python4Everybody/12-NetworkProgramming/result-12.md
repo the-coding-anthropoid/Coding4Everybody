@@ -26,8 +26,9 @@
 
 #### Autograder: Request-Response Cycle
 
-<!-- ![Image of Autograder Request-Response](autograder-request-response.png)
-![Image of Grade for Autograder Request-Response](./grade-request-response.png) -->
+![Image of Autograder Request-Response](autograder-request-response.png)
+![Image of Grade for Autograder Request-Response](./grade-request-response.png)
+[soket1.py](socket1.py)
 
 #### Autograder: Scraping HTML Data with BeautifulSoup
 
