@@ -14,6 +14,7 @@
 - [Lesson 09: Dictionaries](09-Dictionaries/result-09.md)
 - [Lesson 10: Tuples](10-Tuples/result-10.md)
 - [Lesson 11: Regular Expressions](11-RegularExpressions/result-11.md)
+- [Lesson 12: Network Programming](12-NetworkProgramming/result-12.md)
 
 ## Badges
 
