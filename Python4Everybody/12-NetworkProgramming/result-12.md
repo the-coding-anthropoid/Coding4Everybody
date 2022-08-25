@@ -32,8 +32,27 @@
 
 #### Autograder: Scraping HTML Data with BeautifulSoup
 
-<!-- ![Image of Autograder Scraping](autograder-scraping.png)
-![Image of Grade for Autograder Scraping](./grade-scraping.png) -->
+```python
+import urllib.request, urllib.parse, urllib.error
+from bs4 import BeautifulSoup
+
+# get data
+url = input("Enter URL: ")
+html = urllib.request.urlopen(url).read()
+soup = BeautifulSoup(html, "html.parser")
+
+# Retrieve all of the span elements
+tags = soup("span")
+
+# sum contents of tags
+total = 0
+for tag in tags:
+    total += int(tag.contents[0])
+
+# output
+print(total)
+```
+![Image of Grade for Autograder Scraping](./grade-scrape.png)
 
 #### Autograder: Following Links with BeautifulSoup
 
