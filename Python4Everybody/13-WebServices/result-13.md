@@ -33,7 +33,7 @@
 
 #### Quiz: XML
 
-<!-- ![Image of XML quiz Assignment](quiz-12-xml.png) -->
+![Image of XML quiz Assignment](quiz-12-xml.png)
 
 #### Autograder: Extract Data from JSON
 
