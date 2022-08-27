@@ -28,8 +28,8 @@
 
 #### Autograder: Extracting Data from XML
 
-<!-- ![Image of Autograder XML](autograder-xml.png)
-![Image of Grade for Autograder XML](./grade-xml.png) -->
+[Code file for autograder-xml.py](autograder-xml.py)
+![Image of Grade for Autograder XML](./grade-xml.png)
 
 #### Quiz: XML
 
