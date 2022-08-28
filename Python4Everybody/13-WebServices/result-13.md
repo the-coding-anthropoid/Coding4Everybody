@@ -37,8 +37,8 @@
 
 #### Autograder: Extract Data from JSON
 
-<!-- ![Image of Autograder JSON](autograder-json.png)
-![Image of Grade for Autograder JSON](./grade-json.png) -->
+[Code file for autograder-json.py](autograder-json.py)
+![Image of Grade for Autograder JSON](./grade-json.png)
 
 #### Quiz: JSON
 
