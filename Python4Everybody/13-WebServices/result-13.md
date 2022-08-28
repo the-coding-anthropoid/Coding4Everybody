@@ -33,7 +33,7 @@
 
 #### Quiz: XML
 
-![Image of XML quiz Assignment](quiz-12-xml.png)
+![Image of XML quiz Assignment](quiz-13-xml.png)
 
 #### Autograder: Extract Data from JSON
 
@@ -42,7 +42,7 @@
 
 #### Quiz: JSON
 
-<!-- ![Image of JSON quiz Assignment](quiz-12-json.png) -->
+![Image of JSON quiz Assignment](quiz-13-json.png)
 
 #### Autograder: Using the GeoJSON API
 
