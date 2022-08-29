@@ -15,6 +15,7 @@
 - [Lesson 10: Tuples](10-Tuples/result-10.md)
 - [Lesson 11: Regular Expressions](11-RegularExpressions/result-11.md)
 - [Lesson 12: Network Programming](12-NetworkProgramming/result-12.md)
+- [Lesson 13: Web Services](13-WebServices/result-13.md)
 
 ## Badges
 
@@ -57,7 +58,7 @@ These badges contain the official Open Badge metadata. You could validate the ba
 <tr>
 <td align="center">
 <img width="300" height="1"><br>
-<strong>Coming Soon</strong> => <br> Network Data<br>
+<img height="125" width="125" src="Badges/web.png" alt="py4e web and network data badge"><br>
 <img width="300" height="1"><br>
 </td>
 <td align="center">

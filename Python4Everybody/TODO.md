@@ -1,6 +1,7 @@
 # TODO
 
-- Using Web services
+- OOP
+  - skeleton
+  - quiz
   - extras
   - link
-  - Networking Data badge
