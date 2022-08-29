@@ -46,5 +46,5 @@
 
 #### Autograder: Using the GeoJSON API
 
-<!-- ![Image of Autograder GeoJSON](autograder-geojson.png)
-![Image of Grade for Autograder GeoJSON](./grade-geojson.png) -->
+[Code file for autograder-geo.py](autograder-geo.png)
+![Image of Grade for Autograder GeoJSON](./grade-geo.png)
