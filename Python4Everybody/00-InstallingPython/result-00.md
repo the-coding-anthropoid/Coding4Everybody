@@ -1,6 +1,6 @@
 # Python 4 Everyone
 
-## 00 Installing Python
+## 00 - Installing Python
 
 ### Assignment
 

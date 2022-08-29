@@ -1,6 +1,6 @@
 # Python 4 Everyone
 
-## 02 Variables Expressions and Statements
+## 02 - Variables Expressions and Statements
 
 ### Videos
 

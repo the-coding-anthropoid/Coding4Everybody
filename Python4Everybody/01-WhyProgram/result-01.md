@@ -1,6 +1,6 @@
 # Python 4 Everyone
 
-## 01 Why Program
+## 01 - Why Program
 
 ### Videos
 

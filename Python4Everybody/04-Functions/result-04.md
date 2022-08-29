@@ -1,6 +1,6 @@
 # Python 4 Everyone
 
-## 04 Functions
+## 04 - Functions
 
 ### Videos
 

@@ -1,7 +1,6 @@
 # TODO
 
 - Databases
-  - skeleton
   - autograder single table sql
   - quiz single table sql
   - Autograder: Counting Email in a Database
