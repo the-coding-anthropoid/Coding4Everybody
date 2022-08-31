@@ -30,8 +30,7 @@
 
 #### Autograder: Single Table SQL
 
-<!-- ![Image of Autograder Assignment Single Table SQL](autograder-single-tab.png)
-![Image of Grade for Autograder Assignment Single Table SQL](./grade-single-tab.png) -->
+![Image of Grade for Autograder Assignment Single Table SQL](./grade-single-tab.png)
 
 #### Quiz: Single Table SQL
 

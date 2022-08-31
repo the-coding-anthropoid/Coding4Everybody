@@ -1,7 +1,6 @@
 # TODO
 
 - Databases
-  - autograder single table sql
   - quiz single table sql
   - Autograder: Counting Email in a Database
   - Autograder: Multi-Table Database - Tracks
