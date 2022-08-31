@@ -1,7 +1,6 @@
 # TODO
 
 - Databases
-  - Autograder: Counting Email in a Database
   - Autograder: Multi-Table Database - Tracks
   - Quiz: Data Modeling
   - Autograder: Many Students in Many Courses

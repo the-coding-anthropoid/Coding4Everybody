@@ -38,8 +38,8 @@
 
 #### Autograder: Counting Email in a Database
 
-<!-- ![Image of Autograder Assignment Counting Email in a Database](autograder-email.png)
-![Image of Grade for Autograder Assignment Counting Email in a Database](./grade-email.png) -->
+[Autograder Assignment: Counting Email in a Database, solution code](autograder-count-mail.py)
+![Image of Grade for Autograder Assignment Counting Email in a Database](./grade-count-mail.png)
 
 #### Autograder: Multi-Table Database - Tracks
 
