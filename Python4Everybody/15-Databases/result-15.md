@@ -34,7 +34,7 @@
 
 #### Quiz: Single Table SQL
 
-<!-- ![Image of quiz Assignment](quiz-15-single-tab.png) -->
+![Image of quiz Assignment](quiz-15-single-tab.png)
 
 #### Autograder: Counting Email in a Database
 
