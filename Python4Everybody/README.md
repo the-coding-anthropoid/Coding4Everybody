@@ -17,6 +17,8 @@
 - [Lesson 12: Network Programming](12-NetworkProgramming/result-12.md)
 - [Lesson 13: Web Services](13-WebServices/result-13.md)
 - [Lesson 14: Object Oriented Programming](14-ObjectOrientedProgramming/result-14.md)
+- [Lesson 15: Databases](15-Databases/result-15.md)
+- [Lesson 16: Data Visualisation](16-DataVisualisation/result-16.md)
 
 ## Badges
 
@@ -64,15 +66,17 @@ These badges contain the official Open Badge metadata. You could validate the ba
 </td>
 <td align="center">
 <img width="300" height="1"><br>
-<strong>Coming Soon</strong> => <br> Databases
+<img height="125" width="125" src="Badges/databases.png" alt="py4e databases badge"><br>
 <img width="300" height="1"><br>
 </td>
 <td align="center">
 <img width="300" height="1"><br>
-<strong>Coming Soon</strong> => <br> PY4E
+<img height="125" width="125" src="Badges/py4e.png" alt="py4e course completion badge"><br>
 <img width="300" height="1"><br>
 </td>
 </tr>
 </table>
 
+## Assignments
 
+![Table of results for PY4E Assignments](/Python4Everybody/py4e-assignment-results.png)

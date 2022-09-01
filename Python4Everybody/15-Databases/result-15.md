@@ -4,18 +4,18 @@
 
 ### Videos
 
-- [Databases - Part 1](https://youtu.be/7KHdV6FSpo8)
-- [Databases - Part 2: Single Table SQL]()
-- [Worked Example: Emaildb.py]()
-- [Worked Example: Twspider.py]()
-- [Databases - Part 3: Complex Models]()
-- [Databases - Part 4]()
-- [Databases - Part 5: Foreign Keys]()
-- [Databases - Part 6: JOIN]()
-- [Worked Example: Tracks.py]()
-- [Databases - Part 7: Many-to-Many]()
-- [Worked Example: Roster.py]()
-- [Worked Example: Twfriends.py]()
+- [Databases - Part 1](https://youtu.be/3RMPveOMd0k)
+- [Databases - Part 2: Single Table SQL](https://youtu.be/yRJE-nk20sM)
+- [Worked Example: Emaildb.py](https://youtu.be/MsZoGw4QEpU)
+- [Worked Example: Twspider.py](https://youtu.be/wQNjza1gb_g)
+- [Databases - Part 3: Complex Models](https://youtu.be/rHjRpYUl5eg)
+- [Databases - Part 4](https://youtu.be/PgE--P-ZWvU)
+- [Databases - Part 5: Foreign Keys](https://youtu.be/GfuH_8uH16k)
+- [Databases - Part 6: JOIN](https://youtu.be/zMOSVrb82iU)
+- [Worked Example: Tracks.py](https://youtu.be/UGe7X_L-lHc)
+- [Databases - Part 7: Many-to-Many](https://youtu.be/uq_Wf4nuXqE)
+- [Worked Example: Roster.py](https://youtu.be/CqzELd0R9zc)
+- [Worked Example: Twfriends.py](https://youtu.be/A_TpMJkSOcI)
 
 ### Slides
 
@@ -58,5 +58,5 @@
 
 #### Quiz: Many to Many
 
-<!-- ![Image of quiz Assignment](quiz-15-many.png) -->
+![Image of quiz Assignment](quiz-15-many-many.png)
 
