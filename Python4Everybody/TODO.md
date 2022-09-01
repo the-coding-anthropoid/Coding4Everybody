@@ -1,7 +1,6 @@
 # TODO
 
 - Databases
-  - Autograder: Multi-Table Database - Tracks
   - Quiz: Data Modeling
   - Autograder: Many Students in Many Courses
   - Quiz: Many to Many

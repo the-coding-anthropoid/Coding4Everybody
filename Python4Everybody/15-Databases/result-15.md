@@ -43,8 +43,8 @@
 
 #### Autograder: Multi-Table Database - Tracks
 
-<!-- ![Image of Autograder Assignment Multi-Table Database - Tracks](autograder-multi-tab.png)
-![Image of Grade for Autograder Assignment Multi-Table Database - Tracks](./grade-multi-tab.png) -->
+[Autograder Assignment: Multi-Table Database - Tracks, solution code](autograder-multi-tab.py)
+![Image of Grade for Autograder Assignment Multi-Table Database - Tracks](./grade-multi-tab.png)
 
 #### Quiz: Data Modelling
 
