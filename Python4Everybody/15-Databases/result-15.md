@@ -53,8 +53,8 @@
 
 #### Autograder: Many Students in Many Courses
 
-<!-- ![Image of Autograder Assignment Many Students in Many Courses](autograder-many.png)
-![Image of Grade for Autograder Assignment Many Students in Many Courses](./grade-many.png) -->
+[Autograder Assignment: Many Students in Many Courses, solution code](autograder-many-many.py)
+![Image of Grade for Autograder Assignment Many Students in Many Courses](./grade-many-many.png)
 
 #### Quiz: Many to Many
 
