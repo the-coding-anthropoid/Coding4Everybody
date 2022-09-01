@@ -48,7 +48,7 @@
 
 #### Quiz: Data Modelling
 
-<!-- ![Image of quiz Assignment](quiz-15-data-mod.png) -->
+![Image of quiz Assignment](quiz-15-data-mod.png)
 
 
 #### Autograder: Many Students in Many Courses
